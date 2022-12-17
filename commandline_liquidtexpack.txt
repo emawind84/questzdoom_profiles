@@ -1,0 +1,1 @@
+qzdoom --supersampling 0.9 --msaa 1 --refresh 60 -iwad DOOM2.WAD -file LTP_V6.7.pk3 -file LTP_V6.5_test_map.wad -file laser-sight-0.5.5-vr.pk3  -file Ultimate-Cheat-Menu.zip  +logfile questzdoom.log 

@@ -1,0 +1,1 @@
+qzdoom --supersampling 0.9 --msaa 1 -iwad DOOM2.WAD -file LegendOfDoom-1.1.0.pk3 laser-sight-0.5.5-vr.pk3 Ultimate-Cheat-Menu.zip +logfile questzdoom.log
