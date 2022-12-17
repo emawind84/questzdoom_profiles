@@ -1,1 +1,2 @@
+#TITLE ZBloody Hell
 qzdoom --supersampling 0.9 --msaa 1 -iwad zbloody_hell.wad -file LiveReverb.pk3 MTOLiquids.pk3 ZBloody_Hell_v1915.pk3 ZBloody_Hell_v1915_Caleb.pk3 ZBloody_Hell_v1915x_Patch.pk3 CorruptionCards-v4.3.pk3 Universal_Enhanced_AI.pk3 damnums_1.0.2.pk3 nashgore.pk3 monster-modifier.pk3 statistics-options.pk3  laser-sight-0.5.5-vr.pk3  Ultimate-Cheat-Menu.zip  +logfile questzdoom.log +r_weapscale 0.7 +r_weaphpos 37 +r_weapvpos 40
