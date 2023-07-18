@@ -1,0 +1,1 @@
+qzdoom --supersampling 1.0 --msaa 1 -iwad DOOM2.WAD -file D2SPFX20.WAD -file DOOMTEST.wad -file HDweapons-Remake-Quest.zip -file bullet-time-x.pk3 -file Ultimate-Cheat-Menu.zip  +logfile questzdoom.log +map TEST
