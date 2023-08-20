@@ -1,1 +1,0 @@
-qzdoom --supersampling 0.9 --msaa 1 -iwad DOOM2.WAD -file D2SPFX20.WAD -file Ashes2063Enriched2_2.pk3 -file statistics-options.pk3 -file laser-sight-0.5.5-vr.pk3  -file Ultimate-Cheat-Menu.zip  +logfile questzdoom.log +r_weapscale 0.8 +r_weaphpos 40 +r_weapvpos 53
