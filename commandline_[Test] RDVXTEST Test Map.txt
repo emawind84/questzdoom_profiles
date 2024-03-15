@@ -1,0 +1,1 @@
+qzdoom --supersampling 1.0 --msaa 1 -iwad DOOM2.WAD -file RDVXTEST.wad +logfile questzdoom.log +map MAP01
