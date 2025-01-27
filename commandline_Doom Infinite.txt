@@ -1,0 +1,1 @@
+qzdoom --supersampling 1.0 --msaa 1 -iwad DOOM2.WAD -file D2SPFX20.WAD DOOM_Infinite_DEMO_0978_6.pk3 doom-infinite-input-fix.pk3 monster-modifier.pk3 statistics-options.pk3  laser-sight-0.5.5-vr.pk3  Ultimate-Cheat-Menu.zip  +logfile questzdoom.log 
