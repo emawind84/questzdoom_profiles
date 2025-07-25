@@ -1,1 +1,1 @@
-qzdoom --supersampling 0.9 --msaa 1 --refresh 60 -iwad wads/DOOM2.WAD -file mods/Wolf3D.pk7 -file mods/Wolf3D_Common.pk7 -file mods/Wolf3D_HighRes.pk7 -file mods/Wolf3D_Resources.pk3  -file mods/laser-sight-0.5.5-vr.pk3  -file mods/Ultimate-Cheat-Menu.zip  +logfile questzdoom.log 
+qzdoom --supersampling 0.9 --msaa 1 --refresh 60 -iwad DOOM2.WAD -file Wolf3D.pk7 -file Wolf3D_Common.pk7 -file Wolf3D_HighRes.pk7 -file Wolf3D_Resources.pk3  -file laser-sight-0.5.5-vr.pk3  -file Ultimate-Cheat-Menu.zip  +logfile questzdoom.log 

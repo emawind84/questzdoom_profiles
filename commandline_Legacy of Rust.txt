@@ -1,0 +1,1 @@
+qzdoom --supersampling 1.0 --msaa 1 -iwad DOOM2.WAD -file D2SPFX20.WAD LiveReverb.pk3 MTOLiquids.pk3 CorruptionCards-v4.3.pk3 Universal_Enhanced_AI.pk3 damnums_1.0.2.pk3 nashgore.pk3 id1.wad id1-mus.wad id1-res.wad id1-tex.wad id1-weap.wad monster-modifier.pk3 statistics-options.pk3 Ultimate-Cheat-Menu.zip  +logfile questzdoom.log 
